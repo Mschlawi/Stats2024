@@ -7,6 +7,8 @@ summary(x)
 median(x)
 mean(x)
 
+mean(x)
+mad(x)
 
 
 
